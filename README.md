@@ -7,7 +7,7 @@ PizzaRecipes est une application Android développée en Java permettant d’aff
 leur image 
 leur nom
 leur prix 
-leur durée de préparation ⏱️
+leur durée de préparation 
 
 L’utilisateur peut cliquer sur une pizza pour consulter :
 
